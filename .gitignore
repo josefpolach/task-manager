@@ -1,0 +1,27 @@
+# Build output
+bin/
+obj/
+
+# Rider / JetBrains IDE
+.idea/
+*.sln.iml
+
+# Visual Studio (if you ever open it there)
+.vs/
+*.user
+*.suo
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# Atomic-save leftovers from your Uloz() function if it crashes mid-write
+*.csv.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor swap files
+*.swp
+*~
